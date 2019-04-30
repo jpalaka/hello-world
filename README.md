@@ -1,4 +1,3 @@
 # hello-world
-Example Repository
 
-Hello World2!
+Hello World!
